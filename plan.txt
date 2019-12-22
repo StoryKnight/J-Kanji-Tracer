@@ -1,0 +1,42 @@
+Kanji / Vocab Dictionary
+
+- has UI
+- uses an underlying hashmap (with a linked list)
+- UTF-8 for characters
+- Loads "full-size" kanji characters to trace
+- (this ends up being whatever you want, technically
+        so long as it can be drawn under UTF-8)
+
+
+CURRENT ISSUES:
+    - hash function OR getVal function is flawed
+    - some queries for keys return null when they shouldn't
+
+
+
+PARTS TO IMPLEMENT IN ORDER:
+
+        UNDERLYING DICTIONARY (X)
+- Make sure the encoding put() works with UTF-8
+- Test out some characters in command line
+- Figure out a way to statically hold the kanji and vocabulary (which uses
+                                    a separate hashmap)
+
+        SET UP A QUERY BASE
+- use a text file
+- use the display() method to insert it into a file
+- overwrites the last one
+- allows values to be queried
+
+        METHOD TO DISPLAY THE KANJI
+- Displays Kanji (key) in large fashion in the center
+- in lower font, shows the definition and uses (value)
+
+        DRAWABLE
+- Enables Kanji to "drawn over"
+- Enables marks to be erased
+
+        LEARN FEATURES
+- menu allows searching modes
+    - specifically for key, value pairs
+    - can be RANDOMLY displayed as well
