@@ -117,7 +117,7 @@ class Text extends JFrame implements ActionListener {
 
             l.setText(kanji);
 
-            l2.setFont(l2.getFont().deriveFont((float) 32.0));
+            l2.setFont(l2.getFont().deriveFont((float) 16.0));
 
             String definition = (String) dictionary.get(kanji);
             l2.setText(definition);

@@ -1,23 +1,23 @@
-一:One. 'on'- reading.
-二:2
-三:3
-四:4
-五:5
-六:6
-七:7
-八:8
-九:9
-十:10
-百:11
-千:12
-万:13
-円:14
-時:15
-日:16
-本:17
-人:18
-月:19
-火:20
+一:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+二:Two. On-yomi: に. Kun-yomi: ふた. Ex: 二十四日(にじゅろっか)
+三:Three. On-yomi: さん. Kun-yomi: みっ. Ex: 三月(さんがつ)
+四:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+五:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+六:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+七:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+八:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+九:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+十:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+百:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+千:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+万:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+円:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+時:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+日:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+本:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+人:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+月:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
+火:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
 水:21
 木:22
 金:23
