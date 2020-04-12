@@ -1,58 +1,145 @@
-一:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-二:Two. On-yomi: に. Kun-yomi: ふた. Ex: 二十四日(にじゅろっか)
-三:Three. On-yomi: さん. Kun-yomi: みっ. Ex: 三月(さんがつ)
-四:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-五:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-六:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-七:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-八:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-九:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-十:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-百:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-千:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-万:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-円:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-時:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-日:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-本:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-人:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-月:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-火:One. On-yomi: いち. Kun-yomi: ひと. Ex: 一年生 (いちねんせい)
-水:21
-木:22
-金:23
-土:24
-曜:25
-上:26
-下:27
-中:28
-半:29
-山:30
-川:31
-元:32
-気:33
-天:34
-私:35
-今:36
-田:37
-女:38
-男:39
-見:40
-行:41
-食:42
-飲:43
-東:44
-西:45
-南:46
-北:47
-口:48
-出:49
-右:50
-左:51
-分:52
-先:53
-生:54
-大:55
-学:56
-外:57
-国:58
+一:いち/いっ/ひと: One
+二:に/ふた: Two
+三:さん/みつ: Three
+四:し/よん/よ/よっ: Four
+五:ご/いっ: Five
+六:ろく/ろっ/むっ: Six
+七:しち/なな: Seven
+八:はち/はっ/やっ: Eight
+九:きゅう/く/ここの: Nine
+十:じゅう/じゅっ/じっ/とお: Ten
+百:はやく/びゃく/ぴゃく: One Hundred
+千:せん/ぜん: One thousand
+万:まん: Ten thousand
+円:えん/まる: Yen
+時:じ: Time
+日:に/にち/にっ: Day, Sun
+本:ほん/もと: Book, Basis
+人:じん/にん/ひと: Person
+月:げつ/がつ/つき: Moon, Month
+火:か/ひ/び: Fire
+水:すい/みず: Water
+木:もく/き: Tree
+金:きん/かね: Gold, Money
+土:ど/と/つち: Soil
+曜:よう: Weekday
+上:うえ/じょう/のぼ: Up
+下:した/か/くだ: Down
+中:ちゅう/なか/じゅう: Middle
+半:はん: Half
+山:やま/きん: Mountain
+川:かわ/がわ: River
+元:げん/がん/もと: Origin
+気:き: Spirit
+天:てん: Heaven
+私:わたし: I, Private
+今:いま: Now
+田:た/だ: Rice Field
+女:おんな/じょ: Woman
+男:おとこ/だん: Man
+見:み/けん: To see
+行:い/こう/ぎょう: To go
+食:た/しょく: To eat
+飲:の/いん: To drink
+東:ひがし/よう: East
+西:にし/せい/さい: West
+南:みなみ/なん: South
+北:きた/ほく/ほっ: North
+口:ぐち/くち/こう: Mouth
+出:で/だ/しゅっ/しゅつ: To exit
+右:みぎ/う/ゆう: Right
+左:ひだり/さ: Left
+分:ふん/ぶん/ぷん: Minute, To divide
+先:せん/さき: Ahead
+生:せい/しょう/う: Birth
+大:だい/たい/おお: Big
+学:がく/がっ/まな: Learning
+外:がい/そと: Outside
+国:こく/ごく/こっ/くに: Country
+京:きょう: Capital
+子:こ/し: Child
+小:ちい/しょう: Small
+会:あ/かい: To meet
+社:しゃ/じゃ: Company
+父:ちち/どう/ふ: Father
+母:はは/かあ/ぼ: Mother
+高:たか/こう: High
+校:こう: School
+毎:まい: Every
+語:ご: Word
+文:ぶん: Sentence
+帰:かえ: To return
+入:はい/にゅう/い/いり: To enter
+員:いん: Member
+新:あたら/しん: New
+聞:き/ぶん: To listen
+作:つく/さく: To make
+仕:し/つか: To serve
+事:ごと/こと/じ: Thing
+電:でん: Electricity
+車:くるま/しゃ: Car
+休:やす/きゅう: To rest
+言:い/こと/げん: To say
+読:よ/どく: To read
+思:おも/じ: To think
+次:つぎ/じ: Next
+何:なに/なん: What
+午:ご: Noon
+後:あと/うし/ご: After
+前:まえ/ぜん: Before
+名:な/めい: Name
+白:しろ/はく: White
+雨:あめ/う: Rain
+書:か/しょ: To write
+友:とも/ゆう: Friend
+間:あいだ/かん/げん: between
+家:いえ/か: House
+話:はな/はなし/わ: To speak
+小:すこ/すく/しょう: Little
+古:ふる/こ: Old
+知:し/ち: To know
+来:く/き/こ/らい: To come
+住:す/しゅう: To live
+正:しょう/ただ: Right
+年:ねん/とし: Year
+売:う/ばい: To sell
+買:か/ばい: To buy
+町:まち/ちょう: Town
+長:なが/ちょう: Long
+道:みち/どう: Way
+雪:ゆき/せつ: Snow
+立:た/りつ: To stand
+自:じ: Self
+夜:よる/よ/や: Night
+朝:あさ/ちょう: Morning
+持:も/じ: To hold
+手:て/しゅ: Hand
+紙:がみ/かみ/し: Paper
+好:す/この/こう: Favorite, To like
+近:ちか/きん: Near
+明:あか/めい: Bright
+病:びょう: Ill, sick
+院:いん: Institution
+映:えい/うつ: To reflect
+画:が/かく: Picture
+歌:うた/か: To sing
+市:し/いち: City
+所:ところ/じょ/しょ/どころ: Place
+勉:べん/つと: To make efforts
+強:つよ/きょう/ごう: Strong
+有:ゆう/あ: To exist
+旅:りょ/たび: Travel
+昔:むかし: Ancient times
+々:Symbol of repetition of a kanji
+神:かみ/じん/しん/こう: God
+早:はや/ぞう: Early
+起:お/き: To get up
+牛:うし/ぎゅう: Cow
+使:つか/し: To use
+働:はたら/ばたら/どう: To work
+連:つ/れん: To link
+別:べつ/わか: To separate
+度:ど: Time, Degrees
+赤:あか/せき: Red
+青:あお/せい: Blue
+色:いろ/しき/しょく: Color

@@ -40,10 +40,12 @@ class Text extends JFrame implements ActionListener {
         Charset charset = Charset.forName("UTF-8");
 
         l.setFont(l.getFont().deriveFont((float) 16.0));
+        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         try {
-            File file = new File("C:\\Users\\Allahmath\\" +
-                    "Desktop\\J-Kanji\\vocab.txt");
+
+            String localDir = System.getProperty("user.dir");
+            File file = new File(localDir + "\\vocab.txt");
 
             BufferedReader in = new BufferedReader(
                     new InputStreamReader(
