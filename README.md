@@ -7,3 +7,5 @@ Vocabulary is parsed in "Key:Value" pairs when the project is ran.
 The hashmap is custom-made and all of it is encoded to UTF-8.
 
 Currently there is no executable file.
+
+OUTDATED: see J-Kanji_TracerII (written in processing)
